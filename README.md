@@ -23,7 +23,7 @@ You can either __git clone__ the repository OR __manually install__ it by downlo
 ### GIT CLONE INSTALLATION
 The full cloning installation guide can be found [here](https://discord.com/channels/1015060230222131221/1257038407503446176/1257038407503446176) or via [the official Vencord Docs](https://docs.vencord.dev/installing/custom-plugins/).
 1. Direct your terminal (command prompt/CMD) to the `userplugins` folder, e.g. `cd src/userplugins`.
-2. Open the terminal and paste `git clone [https://github.com/Lewko6702/FriendZone.git]`
+2. Open the terminal and paste `git clone https://github.com/Lewko6702/FriendZone`
 3. Ensure it's structured as `src/userplugins/FriendZone`
 4. Run `pnpm build` in the terminal (command prompt/CMD) and the plugin should be added.
 
